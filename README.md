@@ -4,4 +4,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/ashley-monaghan/ICS20---Unit-1-06-HTML-CSS)](https://repl.it/github/ashley-monaghan/ICS20---Unit-1-06-HTML-CSS)
 
-This site can be found at: [https://ashley-monaghan.github.io/ICS20---Unit-1-06-HTML-CSS](https://ashley-monaghan.github.io/ICS20---Unit-1-06-HTML-CSS)
+This site can be found at: [https://ashley-monaghan.github.io/ICS20---Unit-1-06-HTML-CSS/)
